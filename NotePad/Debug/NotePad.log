@@ -1,0 +1,4 @@
+﻿  notepad.cpp
+d:\cplusplus\notepad\notepad\notepad.cpp(29): warning C4302: “类型转换”: 从“LPSTR”到“WORD”截断
+  NotePad.vcxproj -> D:\Cplusplus\NotePad\Debug\NotePad.exe
+  NotePad.vcxproj -> D:\Cplusplus\NotePad\Debug\NotePad.pdb (Partial PDB)

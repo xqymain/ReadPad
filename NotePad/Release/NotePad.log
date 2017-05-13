@@ -1,0 +1,9 @@
+﻿  notepad.cpp
+notepad.cpp(29): warning C4302: “类型转换”: 从“LPSTR”到“WORD”截断
+  正在生成代码
+  2 of 2 functions (100.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  NotePad.vcxproj -> D:\Cplusplus\NotePad\Release\NotePad.exe
+  NotePad.vcxproj -> D:\Cplusplus\NotePad\Release\NotePad.pdb (Full PDB)
